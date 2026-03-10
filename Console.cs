@@ -1,6 +1,4 @@
 Console.WriteLine("Hello, World!");
-<<<<<<< HEAD
-
 
 
 
